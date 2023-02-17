@@ -223,15 +223,15 @@ preset_prospectorium_mean_01 = {
 		resource_terms = {
 			{
 				key = resource_subsidies_energy
-				value = 0.45
+				value = 0.4
 			}
 			{
 				key = resource_subsidies_minerals
-				value = 0.45
+				value = 0.4
 			}
 			{
 				key = resource_subsidies_food
-				value = 0.45
+				value = 0.4
 			}
 			{
 				key = resource_subsidies_alloys
@@ -352,11 +352,11 @@ preset_prospectorium_mean_02 = {
 			}
 			{
 				key = resource_subsidies_alloys
-				value = 0.45
+				value = 0.50
 			}
 			{
 				key = resource_subsidies_consumer_goods
-				value = 0.45
+				value = 0.50
 			}
 			{
 				key = resource_subsidies_strategic
@@ -460,16 +460,28 @@ preset_prospectorium_mean_03 = {
 	term_data = {
 		resource_terms = {
 			{
-				key = resource_subsidies_basic
-				value = 0.75
+				key = resource_subsidies_energy
+				value = 0.70
 			}
 			{
-				key = resource_subsidies_advanced
+				key = resource_subsidies_minerals
+				value = 0.70
+			}
+			{
+				key = resource_subsidies_food
+				value = 0.70
+			}
+			{
+				key = resource_subsidies_consumer_goods
+				value = 0.6
+			}
+			{
+				key = resource_subsidies_alloys
 				value = 0.6
 			}
 			{
 				key = resource_subsidies_strategic
-				value = 0.45
+				value = 0.40
 			}
 		}
 		discrete_terms = {

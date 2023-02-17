@@ -327,7 +327,7 @@ preset_scholarium_mean_02 = {
 		resource_terms = {
 			{
 				key = resource_subsidies_research
-				value = 0.45
+				value = 0.40
 			}
 		}
 		discrete_terms = {
