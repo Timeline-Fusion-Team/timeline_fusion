@@ -4830,7 +4830,7 @@ country_event = {
 	option = {
 		name = over.100.b
 		trigger = {
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 	}
 	option = {

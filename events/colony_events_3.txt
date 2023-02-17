@@ -6417,7 +6417,7 @@ planet_event = { # Ending - grand opening and the last opportunity
 		custom_tooltip = colony.9290.d.desc
 		trigger = {
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		set_planet_flag = manufactorium_traders

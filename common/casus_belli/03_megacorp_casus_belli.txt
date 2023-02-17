@@ -42,7 +42,7 @@ cb_megacorp_subjugate = {
 	show_notification = no
 	potential = {
 		is_country_type = default
-		has_authority = auth_corporate
+		OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		is_subject = no
 	}
 	is_valid = {
@@ -68,11 +68,11 @@ cb_hostile_takeover = {
 	show_notification = yes
 	potential = {
 		is_country_type = default
-		has_authority = auth_corporate
+		OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		NOT = { has_valid_civic = civic_criminal_heritage }
 	}
 	is_valid = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		NOT = { is_in_federation_with = from }
 		NOT = { from = { is_overlord_to = root } }
 		any_country = {
@@ -92,7 +92,7 @@ cb_expel_corp = {
 	show_notification = yes
 	potential = {
 		is_country_type = default
-		NOT = { has_authority = auth_corporate }
+		NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 	}
 	is_valid = {
 		NOT = { has_commercial_pact = from }

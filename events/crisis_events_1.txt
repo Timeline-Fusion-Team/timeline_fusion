@@ -727,6 +727,7 @@ country_event = {
 				has_government = gov_megacorporation
 				has_government = gov_trade_league
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 			}
 			NOR = {
 				has_ethic = "ethic_fanatic_egalitarian"
@@ -3367,6 +3368,7 @@ country_event = {
 				has_government = gov_megacorporation
 				has_government = gov_trade_league
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 			}
 			NOR = {
 				has_ethic = "ethic_fanatic_xenophile"

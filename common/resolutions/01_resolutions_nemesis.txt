@@ -2692,7 +2692,8 @@ resolution_custodian_gto = {
 
 		modifier = {
 			factor = 1.5
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 
@@ -2764,7 +2765,8 @@ resolution_custodian_disband_gto = {
 
 		modifier = {
 			factor = 0.6
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 
@@ -3934,7 +3936,8 @@ resolution_emperor_gto = {
 
 		modifier = {
 			factor = 1.5
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 
@@ -4010,7 +4013,8 @@ resolution_emperor_disband_gto = {
 
 		modifier = {
 			factor = 0.6
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 

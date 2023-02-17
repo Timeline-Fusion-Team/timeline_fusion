@@ -66,7 +66,8 @@ preset_subsidiary_mean_01 = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+	}
 	}
 }
 
@@ -146,7 +147,7 @@ preset_subsidiary_mean_02 = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 }
 
@@ -230,7 +231,7 @@ preset_subsidiary_mean_03 = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 }
 
@@ -302,7 +303,7 @@ preset_subsidiary_nice_01 = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 }
 
@@ -374,6 +375,6 @@ preset_subsidiary_nice_02 = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate } }
 	}
 }

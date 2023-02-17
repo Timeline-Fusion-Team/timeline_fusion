@@ -12549,7 +12549,8 @@ resolution_galactic_market_form = {
 
 		modifier = {
 			factor = 2
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 
@@ -13016,7 +13017,8 @@ resolution_galactic_market_relocate = {
 
 		modifier = {
 			factor = 2
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			NOT = { has_modifier = galactic_market_founder }
 			desc = gal_com_is_not_galactic_market_founder
 		}

@@ -144,7 +144,7 @@ fleet_event = {
 			modifier = {
 				factor = 5
 				owner = {
-					has_authority = auth_corporate
+					OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				}
 			}
 		}

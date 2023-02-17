@@ -89,6 +89,7 @@ preset_vassal = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}
@@ -171,7 +172,7 @@ preset_subsidiary = {
 	}
 
 	potential = {
-		from = { has_authority = auth_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate } }
 		tech_unlocked_ratio = {
 			who = from
 			ratio >= @protectorate_tech_threshold
@@ -247,6 +248,7 @@ preset_tributary = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 			}
 		}

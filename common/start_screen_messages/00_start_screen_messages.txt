@@ -1162,8 +1162,9 @@ part = {
 
 	trigger = {
 		has_origin = origin_toxic_knights
-		NOT = {
+		NOR = {
 			has_authority = auth_corporate
+			has_authority = auth_dynastic_corporate
 		}
 	}
 }
@@ -1175,7 +1176,10 @@ part = {
 
 	trigger = {
 		has_origin = origin_toxic_knights
-		has_authority = auth_corporate
+		OR = {
+			has_authority = auth_dynastic_corporate
+			has_authority = auth_corporate
+		}
 	}
 }
 

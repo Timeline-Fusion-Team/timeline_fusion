@@ -57,6 +57,7 @@ preset_vassal_mean_01 = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}
@@ -148,6 +149,7 @@ preset_vassal_mean_02 = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}
@@ -243,6 +245,7 @@ preset_vassal_mean_03 = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}
@@ -312,6 +315,7 @@ preset_vassal_nice_01 = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}
@@ -391,6 +395,7 @@ preset_vassal_nice_02 = {
 		from = {
 			NOR = {
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 				is_country_type = awakened_fallen_empire
 				has_civic = civic_inwards_perfection
 			}

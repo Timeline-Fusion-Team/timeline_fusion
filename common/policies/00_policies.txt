@@ -948,7 +948,7 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			NOT = { has_authority = auth_corporate }
+			NOR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 
 		on_enabled = {
@@ -1015,7 +1015,7 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			NOT = { has_authority = auth_corporate }
+			NOR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 
 		on_enabled = {
@@ -1064,7 +1064,7 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			NOT = { has_authority = auth_corporate }
+			NOR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 
 		on_enabled = {
@@ -1131,7 +1131,7 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 
 		on_enabled = {
@@ -1209,7 +1209,8 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 		}
 
 		ai_weight = {
@@ -1247,7 +1248,8 @@ subjugation_war_terms = {
 		}
 
 		potential = {
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 		}
 
 		on_enabled = {
@@ -1940,7 +1942,8 @@ border_policy = {
 			factor = 10
 			modifier = {
 				factor = 0
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			}
 			modifier = {
 				factor = 0

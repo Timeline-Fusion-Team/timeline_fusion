@@ -4500,7 +4500,7 @@ country_event = {
 	option = {
 		name = cara.4020.c
 		trigger = {
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 		}
 		custom_tooltip = cara.4020.c.tooltip
 		add_monthly_resource_mult = {

@@ -1201,17 +1201,22 @@ is_regular_empire = {
 is_capitalist = {
 	OR = {
 		has_authority = auth_corporate
+		has_authority = auth_dynastic_corporate
 		has_civic = civic_corporate_dominion
 		has_civic = civic_merchant_guilds
 	}
 }
 
 is_megacorp = {
+	OR = {
 	has_authority = auth_corporate
+	has_authority = auth_dynastic_corporate
+	}
 }
 
 has_corporate_government = {
 	OR = {
+		has_authority = auth_dynastic_corporate
 		has_authority = auth_corporate
 		has_civic = civic_galactic_sovereign_megacorp
 	}
@@ -1241,6 +1246,7 @@ is_oligarchy = { #Power of few
 	OR = {
 		has_authority = auth_oligarchic
 		has_authority = auth_corporate
+		has_authority = auth_dynastic_corporate
 	}
 	NOR = {
 		has_ethic = ethic_egalitarian

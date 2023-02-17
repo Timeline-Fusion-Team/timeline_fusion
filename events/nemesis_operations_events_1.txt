@@ -1952,7 +1952,7 @@ espionage_operation_event = {
 					1 = {
 						modifier = {
 							factor = 0
-							NOT = { has_authority = auth_corporate }
+							NOR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate } 
 						}
 						espionage_smear_campaign_corporate = yes
 					}

@@ -1512,7 +1512,7 @@ espionage_smear_campaign_spiritualist = {
 	}
 	else_if = {
 		limit = {
-			root.target = { has_authority = auth_corporate }
+			root.target = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 		}
 		set_country_flag = smear_spiritualist_merch@root.target
 		set_country_flag = smear_campaign_insulted@root.owner
@@ -1544,6 +1544,7 @@ espionage_smear_campaign_militarist = {
 				OR = {
 					is_militarist = yes
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_valid_civic = civic_merchant_guilds
 				}
 			}
@@ -1570,6 +1571,7 @@ espionage_smear_campaign_xenophobe = {
 			root.target = {
 				OR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_valid_civic = civic_merchant_guilds
 				}
 				has_technology = tech_gene_tailoring
@@ -1659,6 +1661,7 @@ espionage_smear_campaign_pacifist = {
 			root.target = {
 				OR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_valid_civic = civic_merchant_guilds
 				}
 			}
@@ -1701,6 +1704,7 @@ espionage_smear_campaign_xenophile = {
 			root.target = {
 				OR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_valid_civic = civic_merchant_guilds
 					has_commercial_pact = event_target:smear_campaign_recipient
 				}

@@ -121,7 +121,7 @@ opinion_dc_vs_oligarchic = {
 			has_ai_personality = democratic_crusaders
 			OR = {
 				FROM = { has_authority = auth_oligarchic }
-				FROM = { has_authority = auth_corporate }
+				FROM = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 			}
 		}
 	}

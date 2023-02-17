@@ -1383,7 +1383,7 @@ decision_market_nomination = {
 					}
 					modifier = {
 						factor = 0.33
-						from = { has_authority = auth_corporate }
+						from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 					}
 					modifier = {
 						factor = 0.5
@@ -1421,7 +1421,7 @@ decision_market_nomination = {
 					}
 					modifier = {
 						factor = 9
-						from = { has_authority = auth_corporate }
+						from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 					}
 					modifier = {
 						factor = 2
@@ -1479,7 +1479,7 @@ decision_market_nomination = {
 		}
 		modifier = {
 			factor = 2
-			from = { has_authority = auth_corporate }
+			from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate } 	}
 		}
 		modifier = {
 			factor = 1.5
@@ -1613,7 +1613,7 @@ decision_boost_market_nomination = {
 		}
 		modifier = {
 			factor = 2
-			from = { has_authority = auth_corporate }
+			from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 		}
 	}
 }

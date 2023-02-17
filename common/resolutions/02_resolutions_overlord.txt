@@ -465,7 +465,8 @@ resolution_defenseprivatization_defense_contracts = {
 
 		modifier = {
 			factor = 2
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 
@@ -549,7 +550,8 @@ resolution_defenseprivatization_private_support_troops = {
 
 		modifier = {
 			factor = 2
-			has_authority = auth_corporate
+			OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+
 			desc = auth_corporate
 		}
 

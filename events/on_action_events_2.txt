@@ -96,12 +96,12 @@ country_event = {
 
 	option = {
 		name = action.96.a
-		trigger = { has_authority = auth_corporate }
+		trigger = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 
 	option = {
 		name = action.96.b
-		trigger = { NOT = { has_authority = auth_corporate } }
+		trigger = { NOR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 }
 
@@ -115,6 +115,7 @@ country_event = {
 			NOR = {
 				is_xenophobe = yes
 				has_authority = auth_corporate
+				has_authority = auth_dynastic_corporate
 			}
 		}
 	}
@@ -124,7 +125,7 @@ country_event = {
 	}
 	desc = {
 		text = action.97.desc.corp
-		trigger = { has_authority = auth_corporate }
+		trigger = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 	picture = GFX_evt_financial_instruments
 	show_sound = event_galactic_market
@@ -146,13 +147,13 @@ country_event = {
 
 	option = {
 		name = action.96.a
-		trigger = { has_authority = auth_corporate }
+		trigger = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		custom_tooltip = enable_decision_market_nomination
 	}
 
 	option = {
 		name = action.96.b
-		trigger = { NOT = { has_authority = auth_corporate } }
+		trigger = { NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate } }
 		custom_tooltip = enable_decision_market_nomination
 	}
 }
@@ -508,7 +509,7 @@ country_event = {
 					}
 					modifier = {
 						factor = 9
-						has_authority = auth_corporate
+						OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 					}
 					modifier = {
 						factor = 2
@@ -1894,8 +1895,8 @@ country_event = {
 	is_triggered_only = yes
 
 	trigger = {
-		has_authority = auth_corporate
-		from = { has_authority = auth_corporate }
+		OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+		from = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 	}
 
 	immediate = {

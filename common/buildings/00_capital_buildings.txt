@@ -180,6 +180,7 @@ building_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -195,7 +196,8 @@ building_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
+		}
 		}
 		modifier = {
 			job_executive_add = 2
@@ -317,7 +319,7 @@ building_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				is_regular_empire = yes
 			}
 		}
@@ -336,7 +338,7 @@ building_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -425,6 +427,7 @@ building_major_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -440,7 +443,7 @@ building_major_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate } }
 		}
 		modifier = {
 			job_executive_add = 3
@@ -588,6 +591,7 @@ building_major_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -610,7 +614,7 @@ building_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -712,6 +716,7 @@ building_system_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -727,7 +732,7 @@ building_system_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		}
 		modifier = {
 			job_executive_add = 4
@@ -880,7 +885,7 @@ building_system_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate}
 				is_regular_empire = yes
 			}
 		}
@@ -899,7 +904,7 @@ building_system_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -1802,6 +1807,7 @@ building_hab_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_origin = origin_void_dwellers
 				}
 				is_regular_empire = yes
@@ -1814,7 +1820,7 @@ building_hab_capital = {
 		potential = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				NOT = { has_origin = origin_void_dwellers }
 			}
 		}
@@ -1906,6 +1912,7 @@ building_hab_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_origin = origin_void_dwellers
 				}
 				is_regular_empire = yes
@@ -1926,7 +1933,7 @@ building_hab_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				NOT = { has_origin = origin_void_dwellers }
 			}
 		}
@@ -2096,6 +2103,7 @@ building_hab_major_capital = {
 				is_regular_empire = yes
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -2130,7 +2138,7 @@ building_hab_major_capital = {
 		potential = {
 			NOT = { has_planet_flag = toxic_knights_habitat }
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 		}
 		modifier = {
 			job_executive_add = 2
@@ -2290,7 +2298,7 @@ building_hab_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				is_regular_empire = yes
 			}
 			OR = {
@@ -2356,7 +2364,7 @@ building_hab_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 			OR = {
 				NOT = { has_planet_flag = toxic_knights_habitat }
@@ -2487,7 +2495,7 @@ building_resort_capital = {
 		potential = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate}
 			}
 		}
 		job_politician_add = 1
@@ -2496,7 +2504,7 @@ building_resort_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 		}
 		modifier = {
 			job_executive_add = 1
@@ -2517,7 +2525,7 @@ building_resort_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate}
 			}
 		}
 		text = job_politician_effect_desc
@@ -2535,7 +2543,7 @@ building_resort_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -2619,7 +2627,7 @@ building_resort_major_capital = {
 		potential = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		job_politician_add = 1
@@ -2628,7 +2636,7 @@ building_resort_major_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		}
 		modifier = {
 			job_executive_add = 1
@@ -2660,7 +2668,7 @@ building_resort_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_politician_effect_desc
@@ -2678,7 +2686,7 @@ building_resort_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -2730,7 +2738,7 @@ building_slave_capital = {
 		potential = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate}
 			}
 		}
 		job_politician_add = 2
@@ -2739,7 +2747,7 @@ building_slave_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		}
 		modifier = {
 			job_executive_add = 2
@@ -2760,7 +2768,7 @@ building_slave_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_politician_effect_desc
@@ -2770,7 +2778,7 @@ building_slave_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -2838,7 +2846,7 @@ building_slave_major_capital = {
 		potential = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate}
 			}
 		}
 		job_politician_add = 2
@@ -2847,7 +2855,7 @@ building_slave_major_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }	}
 		}
 		modifier = {
 			job_executive_add = 2
@@ -2879,7 +2887,7 @@ building_slave_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_politician_effect_desc
@@ -2889,7 +2897,7 @@ building_slave_major_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
@@ -2973,6 +2981,7 @@ building_imperial_capital = {
 			owner = {
 				NOR = {
 					has_authority = auth_corporate
+					has_authority = auth_dynastic_corporate
 					has_civic = civic_exalted_priesthood
 					has_civic = civic_aristocratic_elite
 					has_civic = civic_merchant_guilds
@@ -2988,7 +2997,7 @@ building_imperial_capital = {
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { has_authority = auth_corporate }
+			owner = { OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }		}
 		}
 		modifier = {
 			job_executive_add = 6
@@ -3133,7 +3142,7 @@ building_imperial_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				NOT = { has_authority = auth_corporate }
+				NOR = { has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 				is_regular_empire = yes
 			}
 		}
@@ -3152,7 +3161,7 @@ building_imperial_capital = {
 		trigger = {
 			exists = owner
 			owner = {
-				has_authority = auth_corporate
+				OR = {has_authority = auth_corporate has_authority = auth_dynastic_corporate }
 			}
 		}
 		text = job_executive_effect_desc
