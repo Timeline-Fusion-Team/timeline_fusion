@@ -1,0 +1,1005 @@
+#là où sont les différents fonctionnalitées megacorp
+#Common
+Rechercher "has_authority = auth_corporate" (932 résultats dans 24 documents depuis 818 documents recherchés)
+  E:\SteamLibrary\steamapps\common\Stellaris\common\agreement_presets\00_agreement_presets.txt (3 résultats)
+	Ligne 91: 				has_authority = auth_corporate
+	Ligne 165: 		from = { has_authority = auth_corporate }
+	Ligne 232: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\agreement_presets\01_agreement_presets_ai_subsidiary.txt (5 résultats)
+	Ligne 61: 		from = { has_authority = auth_corporate }
+	Ligne 129: 		from = { has_authority = auth_corporate }
+	Ligne 201: 		from = { has_authority = auth_corporate }
+	Ligne 265: 		from = { has_authority = auth_corporate }
+	Ligne 329: 		from = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\agreement_presets\01_agreement_presets_ai_vassal.txt (5 résultats)
+	Ligne 59: 				has_authority = auth_corporate
+	Ligne 138: 				has_authority = auth_corporate
+	Ligne 221: 				has_authority = auth_corporate
+	Ligne 290: 				has_authority = auth_corporate
+	Ligne 369: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\ascension_perks\00_ascension_perks.txt (2 résultats)
+	Ligne 39: 			has_authority = auth_corporate
+	Ligne 809: 		NOT = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\buildings\00_capital_buildings.txt (40 résultats)
+	Ligne 182: 					has_authority = auth_corporate
+	Ligne 198: 			owner = { has_authority = auth_corporate }
+	Ligne 320: 				NOT = { has_authority = auth_corporate }
+	Ligne 339: 				has_authority = auth_corporate
+	Ligne 427: 					has_authority = auth_corporate
+	Ligne 443: 			owner = { has_authority = auth_corporate }
+	Ligne 590: 					has_authority = auth_corporate
+	Ligne 613: 				has_authority = auth_corporate
+	Ligne 714: 					has_authority = auth_corporate
+	Ligne 730: 			owner = { has_authority = auth_corporate }
+	Ligne 883: 				NOT = { has_authority = auth_corporate }
+	Ligne 902: 				has_authority = auth_corporate
+	Ligne 1804: 					has_authority = auth_corporate
+	Ligne 1817: 				has_authority = auth_corporate
+	Ligne 1908: 					has_authority = auth_corporate
+	Ligne 1929: 				has_authority = auth_corporate
+	Ligne 2098: 					has_authority = auth_corporate
+	Ligne 2133: 			owner = { has_authority = auth_corporate }
+	Ligne 2293: 				NOT = { has_authority = auth_corporate }
+	Ligne 2359: 				has_authority = auth_corporate
+	Ligne 2490: 				NOT = { has_authority = auth_corporate }
+	Ligne 2499: 			owner = { has_authority = auth_corporate }
+	Ligne 2520: 				NOT = { has_authority = auth_corporate }
+	Ligne 2538: 				has_authority = auth_corporate
+	Ligne 2622: 				NOT = { has_authority = auth_corporate }
+	Ligne 2631: 			owner = { has_authority = auth_corporate }
+	Ligne 2663: 				NOT = { has_authority = auth_corporate }
+	Ligne 2681: 				has_authority = auth_corporate
+	Ligne 2733: 				NOT = { has_authority = auth_corporate }
+	Ligne 2742: 			owner = { has_authority = auth_corporate }
+	Ligne 2763: 				NOT = { has_authority = auth_corporate }
+	Ligne 2773: 				has_authority = auth_corporate
+	Ligne 2841: 				NOT = { has_authority = auth_corporate }
+	Ligne 2850: 			owner = { has_authority = auth_corporate }
+	Ligne 2882: 				NOT = { has_authority = auth_corporate }
+	Ligne 2892: 				has_authority = auth_corporate
+	Ligne 2975: 					has_authority = auth_corporate
+	Ligne 2991: 			owner = { has_authority = auth_corporate }
+	Ligne 3136: 				NOT = { has_authority = auth_corporate }
+	Ligne 3155: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\casus_belli\03_megacorp_casus_belli.txt (4 résultats)
+	Ligne 45: 		has_authority = auth_corporate
+	Ligne 71: 		has_authority = auth_corporate
+	Ligne 75: 		from = { has_authority = auth_corporate }
+	Ligne 95: 		NOT = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\decisions\02_special_decisions.txt (4 résultats)
+	Ligne 1386: 						from = { has_authority = auth_corporate }
+	Ligne 1424: 						from = { has_authority = auth_corporate }
+	Ligne 1482: 			from = { has_authority = auth_corporate }
+	Ligne 1616: 			from = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\diplo_phrases\00_diplo_phrases.txt (803 résultats)
+	Ligne 18: 				has_authority = auth_corporate
+	Ligne 36: 				has_authority = auth_corporate
+	Ligne 53: 					has_authority = auth_corporate
+	Ligne 73: 					has_authority = auth_corporate
+	Ligne 90: 				has_authority = auth_corporate
+	Ligne 107: 				has_authority = auth_corporate
+	Ligne 125: 				has_authority = auth_corporate
+	Ligne 142: 				has_authority = auth_corporate
+	Ligne 160: 				has_authority = auth_corporate
+	Ligne 177: 				has_authority = auth_corporate
+	Ligne 195: 				has_authority = auth_corporate
+	Ligne 212: 				has_authority = auth_corporate
+	Ligne 230: 				has_authority = auth_corporate
+	Ligne 247: 				has_authority = auth_corporate
+	Ligne 265: 				has_authority = auth_corporate
+	Ligne 282: 				has_authority = auth_corporate
+	Ligne 300: 				has_authority = auth_corporate
+	Ligne 323: 				has_authority = auth_corporate
+	Ligne 340: 				has_authority = auth_corporate
+	Ligne 357: 				has_authority = auth_corporate
+	Ligne 374: 				has_authority = auth_corporate
+	Ligne 392: 				has_authority = auth_corporate
+	Ligne 409: 				has_authority = auth_corporate
+	Ligne 427: 				has_authority = auth_corporate
+	Ligne 444: 				has_authority = auth_corporate
+	Ligne 462: 				has_authority = auth_corporate
+	Ligne 515: 				has_authority = auth_corporate
+	Ligne 534: 				has_authority = auth_corporate
+	Ligne 553: 				has_authority = auth_corporate
+	Ligne 572: 				has_authority = auth_corporate
+	Ligne 591: 				has_authority = auth_corporate
+	Ligne 607: 				has_authority = auth_corporate
+	Ligne 624: 				has_authority = auth_corporate
+	Ligne 640: 				has_authority = auth_corporate
+	Ligne 657: 				has_authority = auth_corporate
+	Ligne 673: 				has_authority = auth_corporate
+	Ligne 690: 				has_authority = auth_corporate
+	Ligne 706: 				has_authority = auth_corporate
+	Ligne 723: 				has_authority = auth_corporate
+	Ligne 739: 				has_authority = auth_corporate
+	Ligne 756: 				has_authority = auth_corporate
+	Ligne 772: 				has_authority = auth_corporate
+	Ligne 789: 				has_authority = auth_corporate
+	Ligne 805: 				has_authority = auth_corporate
+	Ligne 821: 				has_authority = auth_corporate
+	Ligne 837: 				has_authority = auth_corporate
+	Ligne 853: 				has_authority = auth_corporate
+	Ligne 869: 				has_authority = auth_corporate
+	Ligne 885: 				has_authority = auth_corporate
+	Ligne 901: 				has_authority = auth_corporate
+	Ligne 952: 				has_authority = auth_corporate
+	Ligne 970: 				has_authority = auth_corporate
+	Ligne 988: 				has_authority = auth_corporate
+	Ligne 1006: 				has_authority = auth_corporate
+	Ligne 1036: 				has_authority = auth_corporate
+	Ligne 1054: 				has_authority = auth_corporate
+	Ligne 1071: 				has_authority = auth_corporate
+	Ligne 1089: 				has_authority = auth_corporate
+	Ligne 1106: 				has_authority = auth_corporate
+	Ligne 1124: 				has_authority = auth_corporate
+	Ligne 1141: 				has_authority = auth_corporate
+	Ligne 1159: 				has_authority = auth_corporate
+	Ligne 1176: 				has_authority = auth_corporate
+	Ligne 1194: 				has_authority = auth_corporate
+	Ligne 1211: 				has_authority = auth_corporate
+	Ligne 1229: 				has_authority = auth_corporate
+	Ligne 1246: 				has_authority = auth_corporate
+	Ligne 1263: 				has_authority = auth_corporate
+	Ligne 1280: 				has_authority = auth_corporate
+	Ligne 1297: 				has_authority = auth_corporate
+	Ligne 1314: 				has_authority = auth_corporate
+	Ligne 1331: 				has_authority = auth_corporate
+	Ligne 1348: 				has_authority = auth_corporate
+	Ligne 1403: 				has_authority = auth_corporate
+	Ligne 1418: 				has_authority = auth_corporate
+	Ligne 1433: 				has_authority = auth_corporate
+	Ligne 1448: 				has_authority = auth_corporate
+	Ligne 1459: 				has_authority = auth_corporate
+	Ligne 1473: 				has_authority = auth_corporate
+	Ligne 1487: 				has_authority = auth_corporate
+	Ligne 1501: 				has_authority = auth_corporate
+	Ligne 1515: 				has_authority = auth_corporate
+	Ligne 1529: 				has_authority = auth_corporate
+	Ligne 1543: 				has_authority = auth_corporate
+	Ligne 1563: 				has_authority = auth_corporate
+	Ligne 1577: 				has_authority = auth_corporate
+	Ligne 1591: 				has_authority = auth_corporate
+	Ligne 13358: 			has_authority = auth_corporate
+	Ligne 13372: 			has_authority = auth_corporate
+	Ligne 13386: 			has_authority = auth_corporate
+	Ligne 13400: 			has_authority = auth_corporate
+	Ligne 13401: 			FROM = { has_authority = auth_corporate }
+	Ligne 13415: 			has_authority = auth_corporate
+	Ligne 13416: 			FROM = { has_authority = auth_corporate }
+	Ligne 13430: 			has_authority = auth_corporate
+	Ligne 13431: 			FROM = { has_authority = auth_corporate }
+	Ligne 13445: 			has_authority = auth_corporate
+	Ligne 13458: 			has_authority = auth_corporate
+	Ligne 13471: 			has_authority = auth_corporate
+	Ligne 13484: 			has_authority = auth_corporate
+	Ligne 13497: 			FROM = { has_authority = auth_corporate }
+	Ligne 13498: 			has_authority = auth_corporate
+	Ligne 13511: 			has_authority = auth_corporate
+	Ligne 13521: 			has_authority = auth_corporate
+	Ligne 13535: 			has_authority = auth_corporate
+	Ligne 13536: 			FROM = { has_authority = auth_corporate }
+	Ligne 13550: 			has_authority = auth_corporate
+	Ligne 13559: 			has_authority = auth_corporate
+	Ligne 13568: 			has_authority = auth_corporate
+	Ligne 13577: 			has_authority = auth_corporate
+	Ligne 13578: 			FROM = { has_authority = auth_corporate }
+	Ligne 13587: 			has_authority = auth_corporate
+	Ligne 13588: 			FROM = { has_authority = auth_corporate }
+	Ligne 13597: 			has_authority = auth_corporate
+	Ligne 13606: 			has_authority = auth_corporate
+	Ligne 13615: 			has_authority = auth_corporate
+	Ligne 13629: 			has_authority = auth_corporate
+	Ligne 13643: 			has_authority = auth_corporate
+	Ligne 13655: 			has_authority = auth_corporate
+	Ligne 13666: 			FROM = { has_authority = auth_corporate }
+	Ligne 13680: 			FROM = { has_authority = auth_corporate }
+	Ligne 13694: 			FROM = { has_authority = auth_corporate }
+	Ligne 13708: 			FROM = { has_authority = auth_corporate }
+	Ligne 13722: 			FROM = { has_authority = auth_corporate }
+	Ligne 13736: 			FROM = { has_authority = auth_corporate }
+	Ligne 13750: 			FROM = { has_authority = auth_corporate }
+	Ligne 13765: 			FROM = { has_authority = auth_corporate }
+	Ligne 13778: 			FROM = { has_authority = auth_corporate }
+	Ligne 13791: 			FROM = { has_authority = auth_corporate }
+	Ligne 13801: 			FROM = { has_authority = auth_corporate }
+	Ligne 13815: 			FROM = { has_authority = auth_corporate }
+	Ligne 13829: 			FROM = { has_authority = auth_corporate }
+	Ligne 13843: 			FROM = { has_authority = auth_corporate }
+	Ligne 13852: 			FROM = { has_authority = auth_corporate }
+	Ligne 13861: 			FROM = { has_authority = auth_corporate }
+	Ligne 13871: 			FROM = { has_authority = auth_corporate }
+	Ligne 13885: 			FROM = { has_authority = auth_corporate }
+	Ligne 13897: 			FROM = { has_authority = auth_corporate }
+	Ligne 17490: 						has_authority = auth_corporate
+	Ligne 17514: 					has_authority = auth_corporate
+	Ligne 17528: 						has_authority = auth_corporate
+	Ligne 17546: 						has_authority = auth_corporate
+	Ligne 17562: 						has_authority = auth_corporate
+	Ligne 17588: 						has_authority = auth_corporate
+	Ligne 17817: 						has_authority = auth_corporate
+	Ligne 17832: 						has_authority = auth_corporate
+	Ligne 17900: 					has_authority = auth_corporate
+	Ligne 17908: 					has_authority = auth_corporate
+	Ligne 17916: 					has_authority = auth_corporate
+	Ligne 17924: 					has_authority = auth_corporate
+	Ligne 17934: 				has_authority = auth_corporate
+	Ligne 17940: 				has_authority = auth_corporate
+	Ligne 17946: 				has_authority = auth_corporate
+	Ligne 17952: 				has_authority = auth_corporate
+	Ligne 17996: 					has_authority = auth_corporate
+	Ligne 18012: 					has_authority = auth_corporate
+	Ligne 18028: 					has_authority = auth_corporate
+	Ligne 18044: 					has_authority = auth_corporate
+	Ligne 18059: 					has_authority = auth_corporate
+	Ligne 18074: 					has_authority = auth_corporate
+	Ligne 18089: 					has_authority = auth_corporate
+	Ligne 18105: 					has_authority = auth_corporate
+	Ligne 18121: 					has_authority = auth_corporate
+	Ligne 18135: 					has_authority = auth_corporate
+	Ligne 18151: 					has_authority = auth_corporate
+	Ligne 18166: 					has_authority = auth_corporate
+	Ligne 18182: 					has_authority = auth_corporate
+	Ligne 18535: 				has_authority = auth_corporate
+	Ligne 18540: 				has_authority = auth_corporate
+	Ligne 18545: 				has_authority = auth_corporate
+	Ligne 18602: 						has_authority = auth_corporate
+	Ligne 18626: 					has_authority = auth_corporate
+	Ligne 18685: 				has_authority = auth_corporate
+	Ligne 18807: 					NOT = { has_authority = auth_corporate }
+	Ligne 18817: 					NOT = { has_authority = auth_corporate }
+	Ligne 18829: 					NOT = { has_authority = auth_corporate }
+	Ligne 18839: 					NOT = { has_authority = auth_corporate }
+	Ligne 18960: 					has_authority = auth_corporate
+	Ligne 18967: 					has_authority = auth_corporate
+	Ligne 18974: 					has_authority = auth_corporate
+	Ligne 18981: 					has_authority = auth_corporate
+	Ligne 18988: 					has_authority = auth_corporate
+	Ligne 19015: 						has_authority = auth_corporate
+	Ligne 19029: 						has_authority = auth_corporate
+	Ligne 19043: 						has_authority = auth_corporate
+	Ligne 19057: 						has_authority = auth_corporate
+	Ligne 19067: 				NOT = {	has_authority = auth_corporate }
+	Ligne 19181: 				has_authority = auth_corporate
+	Ligne 19208: 				NOT = { has_authority = auth_corporate }
+	Ligne 19215: 				NOT = { has_authority = auth_corporate }
+	Ligne 19356: 				NOT = { has_authority = auth_corporate }
+	Ligne 19369: 				NOT = { has_authority = auth_corporate }
+	Ligne 19387: 				has_authority = auth_corporate
+	Ligne 19392: 				has_authority = auth_corporate
+	Ligne 19397: 				has_authority = auth_corporate
+	Ligne 19402: 				has_authority = auth_corporate
+	Ligne 19409: 				has_authority = auth_corporate
+	Ligne 19421: 				has_authority = auth_corporate
+	Ligne 19441: 					has_authority = auth_corporate
+	Ligne 19463: 					has_authority = auth_corporate
+	Ligne 19484: 					has_authority = auth_corporate
+	Ligne 19565: 				has_authority = auth_corporate
+	Ligne 19570: 				has_authority = auth_corporate
+	Ligne 19579: 				NOT = { has_authority = auth_corporate }
+	Ligne 19589: 				NOT = { has_authority = auth_corporate }
+	Ligne 19658: 				has_authority = auth_corporate
+	Ligne 19669: 						has_authority = auth_corporate
+	Ligne 19680: 						has_authority = auth_corporate
+	Ligne 19812: 				FROM = { has_authority = auth_corporate }
+	Ligne 19817: 				has_authority = auth_corporate
+	Ligne 19818: 				FROM = { has_authority = auth_corporate }
+	Ligne 19827: 					has_authority = auth_corporate
+	Ligne 19838: 					has_authority = auth_corporate
+	Ligne 19951: 				has_authority = auth_corporate
+	Ligne 19960: 				NOT = { has_authority = auth_corporate }
+	Ligne 20117: 				has_authority = auth_corporate
+	Ligne 20159: 					has_authority = auth_corporate
+	Ligne 20181: 					has_authority = auth_corporate
+	Ligne 20202: 					has_authority = auth_corporate
+	Ligne 20301: 				has_authority = auth_corporate
+	Ligne 20310: 				NOT = { has_authority = auth_corporate }
+	Ligne 20317: 					has_authority = auth_corporate
+	Ligne 20377: 				has_authority = auth_corporate
+	Ligne 20387: 						has_authority = auth_corporate
+	Ligne 20471: 				FROM = { has_authority = auth_corporate }
+	Ligne 20480: 					has_authority = auth_corporate
+	Ligne 20558: 				has_authority = auth_corporate
+	Ligne 20567: 					has_authority = auth_corporate
+	Ligne 20626: 				has_authority = auth_corporate
+	Ligne 20631: 				has_authority = auth_corporate
+	Ligne 20643: 					has_authority = auth_corporate
+	Ligne 20703: 				has_authority = auth_corporate
+	Ligne 20713: 						has_authority = auth_corporate
+	Ligne 20785: 				FROM = { has_authority = auth_corporate }
+	Ligne 20794: 					has_authority = auth_corporate
+	Ligne 20847: 				has_authority = auth_corporate
+	Ligne 20852: 				has_authority = auth_corporate
+	Ligne 20864: 					has_authority = auth_corporate
+	Ligne 20886: 					has_authority = auth_corporate
+	Ligne 20907: 					has_authority = auth_corporate
+	Ligne 20998: 				has_authority = auth_corporate
+	Ligne 21010: 					has_authority = auth_corporate
+	Ligne 21026: 					has_authority = auth_corporate
+	Ligne 21040: 				NOT = { has_authority = auth_corporate }
+	Ligne 21054: 				NOT = { has_authority = auth_corporate }
+	Ligne 21127: 				has_authority = auth_corporate
+	Ligne 21137: 					NOT = { has_authority = auth_corporate }
+	Ligne 21151: 					NOT = { has_authority = auth_corporate }
+	Ligne 21231: 					has_authority = auth_corporate
+	Ligne 21240: 					has_authority = auth_corporate
+	Ligne 21315: 				has_authority = auth_corporate
+	Ligne 21327: 					has_authority = auth_corporate
+	Ligne 21343: 					has_authority = auth_corporate
+	Ligne 21362: 				NOT = { has_authority = auth_corporate }
+	Ligne 21381: 				NOT = { has_authority = auth_corporate }
+	Ligne 21450: 				has_authority = auth_corporate
+	Ligne 21666: 						has_authority = auth_corporate
+	Ligne 21737: 				FROM = { has_authority = auth_corporate }
+	Ligne 21880: 					has_authority = auth_corporate
+	Ligne 21939: 				has_authority = auth_corporate
+	Ligne 21944: 				has_authority = auth_corporate
+	Ligne 21952: 				FROM = { has_authority = auth_corporate }
+	Ligne 21958: 				FROM = { NOT = { has_authority = auth_corporate } }
+	Ligne 21965: 				has_authority = auth_corporate
+	Ligne 21970: 				has_authority = auth_corporate
+	Ligne 21978: 				has_authority = auth_corporate
+	Ligne 21984: 				NOT = { has_authority = auth_corporate }
+	Ligne 21992: 				has_authority = auth_corporate
+	Ligne 21998: 				NOT = { has_authority = auth_corporate }
+	Ligne 22009: 				has_authority = auth_corporate
+	Ligne 22016: 				has_authority = auth_corporate
+	Ligne 22024: 				has_authority = auth_corporate
+	Ligne 22030: 				NOT = { has_authority = auth_corporate }
+	Ligne 22037: 				has_authority = auth_corporate
+	Ligne 22042: 				has_authority = auth_corporate
+	Ligne 22049: 				has_authority = auth_corporate
+	Ligne 22061: 				NOT = { has_authority = auth_corporate }
+	Ligne 22136: 				has_authority = auth_corporate
+	Ligne 22146: 						has_authority = auth_corporate
+	Ligne 22220: 				FROM = { has_authority = auth_corporate }
+	Ligne 22229: 				NOT = { has_authority = auth_corporate }
+	Ligne 22292: 				has_authority = auth_corporate
+	Ligne 22304: 					has_authority = auth_corporate
+	Ligne 22363: 				has_authority = auth_corporate
+	Ligne 22373: 					NOT = { has_authority = auth_corporate }
+	Ligne 22462: 				FROM = { has_authority = auth_corporate }
+	Ligne 22471: 					has_authority = auth_corporate
+	Ligne 22572: 				has_authority = auth_corporate
+	Ligne 22581: 					has_authority = auth_corporate
+	Ligne 22649: 				has_authority = auth_corporate
+	Ligne 22654: 				has_authority = auth_corporate
+	Ligne 22668: 					has_authority = auth_corporate
+	Ligne 22730: 				has_authority = auth_corporate
+	Ligne 22756: 						has_authority = auth_corporate
+	Ligne 22768: 						has_authority = auth_corporate
+	Ligne 22779: 						has_authority = auth_corporate
+	Ligne 22791: 						has_authority = auth_corporate
+	Ligne 22858: 				FROM = { has_authority = auth_corporate }
+	Ligne 22863: 				has_authority = auth_corporate
+	Ligne 22864: 				FROM = { has_authority = auth_corporate }
+	Ligne 22875: 					has_authority = auth_corporate
+	Ligne 22890: 					has_authority = auth_corporate
+	Ligne 22905: 					has_authority = auth_corporate
+	Ligne 22920: 					has_authority = auth_corporate
+	Ligne 22966: 				has_authority = auth_corporate
+	Ligne 22972: 				has_authority = auth_corporate
+	Ligne 22999: 					has_authority = auth_corporate
+	Ligne 23010: 					has_authority = auth_corporate
+	Ligne 23021: 					has_authority = auth_corporate
+	Ligne 23032: 					has_authority = auth_corporate
+	Ligne 23043: 					has_authority = auth_corporate
+	Ligne 23054: 					has_authority = auth_corporate
+	Ligne 23065: 					has_authority = auth_corporate
+	Ligne 23076: 					has_authority = auth_corporate
+	Ligne 23145: 				has_authority = auth_corporate
+	Ligne 23150: 				has_authority = auth_corporate
+	Ligne 23179: 					has_authority = auth_corporate
+	Ligne 23189: 					has_authority = auth_corporate
+	Ligne 23199: 					has_authority = auth_corporate
+	Ligne 23209: 					has_authority = auth_corporate
+	Ligne 23219: 					has_authority = auth_corporate
+	Ligne 23229: 					has_authority = auth_corporate
+	Ligne 23239: 					has_authority = auth_corporate
+	Ligne 23249: 					has_authority = auth_corporate
+	Ligne 23309: 				has_authority = auth_corporate
+	Ligne 23314: 				has_authority = auth_corporate
+	Ligne 23328: 					has_authority = auth_corporate
+	Ligne 23397: 				has_authority = auth_corporate
+	Ligne 23521: 					has_authority = auth_corporate
+	Ligne 23534: 					has_authority = auth_corporate
+	Ligne 23547: 					has_authority = auth_corporate
+	Ligne 23561: 					has_authority = auth_corporate
+	Ligne 23705: 					has_authority = auth_corporate
+	Ligne 23717: 					has_authority = auth_corporate
+	Ligne 23729: 					has_authority = auth_corporate
+	Ligne 23741: 					has_authority = auth_corporate
+	Ligne 23762: 					has_authority = auth_corporate
+	Ligne 23775: 					has_authority = auth_corporate
+	Ligne 23788: 					has_authority = auth_corporate
+	Ligne 23801: 					has_authority = auth_corporate
+	Ligne 23845: 					has_authority = auth_corporate
+	Ligne 23859: 					has_authority = auth_corporate
+	Ligne 23953: 				has_authority = auth_corporate
+	Ligne 23959: 				FROM = { has_authority = auth_corporate }
+	Ligne 24062: 				FROM = { has_authority = auth_corporate }
+	Ligne 24067: 				FROM = { has_authority = auth_corporate }
+	Ligne 24072: 				FROM = { has_authority = auth_corporate }
+	Ligne 24077: 				FROM = { has_authority = auth_corporate }
+	Ligne 24092: 				NOT = { has_authority = auth_corporate }
+	Ligne 24104: 				NOT = { has_authority = auth_corporate }
+	Ligne 24116: 				NOT = { has_authority = auth_corporate }
+	Ligne 24128: 				NOT = { has_authority = auth_corporate }
+	Ligne 24241: 				NOT = { has_authority = auth_corporate }
+	Ligne 24252: 				NOT = { has_authority = auth_corporate }
+	Ligne 24263: 				NOT = { has_authority = auth_corporate }
+	Ligne 24274: 				NOT = { has_authority = auth_corporate }
+	Ligne 24294: 				NOT = { has_authority = auth_corporate }
+	Ligne 24306: 				NOT = { has_authority = auth_corporate }
+	Ligne 24318: 				NOT = { has_authority = auth_corporate }
+	Ligne 24330: 				NOT = { has_authority = auth_corporate }
+	Ligne 24401: 					has_authority = auth_corporate
+	Ligne 24410: 					has_authority = auth_corporate
+	Ligne 24419: 					has_authority = auth_corporate
+	Ligne 24434: 					has_authority = auth_corporate
+	Ligne 24448: 					has_authority = auth_corporate
+	Ligne 24469: 					has_authority = auth_corporate
+	Ligne 24492: 					has_authority = auth_corporate
+	Ligne 24504: 					has_authority = auth_corporate
+	Ligne 24516: 					has_authority = auth_corporate
+	Ligne 24528: 					has_authority = auth_corporate
+	Ligne 24539: 					has_authority = auth_corporate
+	Ligne 24550: 					has_authority = auth_corporate
+	Ligne 24561: 					has_authority = auth_corporate
+	Ligne 24572: 					has_authority = auth_corporate
+	Ligne 24595: 					has_authority = auth_corporate
+	Ligne 24608: 					has_authority = auth_corporate
+	Ligne 24622: 					has_authority = auth_corporate
+	Ligne 24635: 					has_authority = auth_corporate
+	Ligne 24682: 					has_authority = auth_corporate
+	Ligne 24694: 					has_authority = auth_corporate
+	Ligne 24706: 					has_authority = auth_corporate
+	Ligne 24718: 					has_authority = auth_corporate
+	Ligne 24823: 					has_authority = auth_corporate
+	Ligne 24836: 					has_authority = auth_corporate
+	Ligne 24849: 					has_authority = auth_corporate
+	Ligne 24862: 					has_authority = auth_corporate
+	Ligne 24922: 					has_authority = auth_corporate
+	Ligne 24936: 					has_authority = auth_corporate
+	Ligne 24957: 				has_authority = auth_corporate
+	Ligne 24967: 				has_authority = auth_corporate
+	Ligne 24976: 				has_authority = auth_corporate
+	Ligne 24997: 						has_authority = auth_corporate
+	Ligne 25073: 				FROM = { has_authority = auth_corporate }
+	Ligne 25088: 					has_authority = auth_corporate
+	Ligne 25101: 					has_authority = auth_corporate
+	Ligne 25114: 					has_authority = auth_corporate
+	Ligne 25127: 					has_authority = auth_corporate
+	Ligne 25273: 					has_authority = auth_corporate
+	Ligne 25285: 					has_authority = auth_corporate
+	Ligne 25297: 					has_authority = auth_corporate
+	Ligne 25309: 					has_authority = auth_corporate
+	Ligne 25343: 					has_authority = auth_corporate
+	Ligne 25356: 					has_authority = auth_corporate
+	Ligne 25369: 					has_authority = auth_corporate
+	Ligne 25382: 					has_authority = auth_corporate
+	Ligne 25460: 					has_authority = auth_corporate
+	Ligne 25486: 				has_authority = auth_corporate
+	Ligne 25504: 					has_authority = auth_corporate
+	Ligne 25602: 					has_authority = auth_corporate
+	Ligne 25654: 					has_authority = auth_corporate
+	Ligne 25725: 				has_authority = auth_corporate
+	Ligne 25736: 						has_authority = auth_corporate
+	Ligne 25811: 					has_authority = auth_corporate
+	Ligne 25838: 					has_authority = auth_corporate
+	Ligne 25880: 					has_authority = auth_corporate
+	Ligne 26015: 				has_authority = auth_corporate
+	Ligne 26020: 				has_authority = auth_corporate
+	Ligne 26037: 					has_authority = auth_corporate
+	Ligne 26049: 					has_authority = auth_corporate
+	Ligne 26062: 					has_authority = auth_corporate
+	Ligne 26071: 					has_authority = auth_corporate
+	Ligne 26080: 					has_authority = auth_corporate
+	Ligne 26089: 					has_authority = auth_corporate
+	Ligne 26109: 				has_authority = auth_corporate
+	Ligne 26130: 					has_authority = auth_corporate
+	Ligne 26142: 					has_authority = auth_corporate
+	Ligne 26155: 					has_authority = auth_corporate
+	Ligne 26164: 					has_authority = auth_corporate
+	Ligne 26173: 					has_authority = auth_corporate
+	Ligne 26182: 					has_authority = auth_corporate
+	Ligne 26229: 				has_authority = auth_corporate
+	Ligne 26241: 					has_authority = auth_corporate
+	Ligne 26263: 					has_authority = auth_corporate
+	Ligne 26284: 					has_authority = auth_corporate
+	Ligne 26375: 				has_authority = auth_corporate
+	Ligne 26385: 					has_authority = auth_corporate
+	Ligne 26396: 						has_authority = auth_corporate
+	Ligne 26407: 					has_authority = auth_corporate
+	Ligne 26417: 					has_authority = auth_corporate
+	Ligne 26495: 				has_authority = auth_corporate
+	Ligne 26503: 					has_authority = auth_corporate
+	Ligne 26510: 					has_authority = auth_corporate
+	Ligne 26519: 				has_authority = auth_corporate
+	Ligne 26526: 				has_authority = auth_corporate
+	Ligne 26531: 				has_authority = auth_corporate
+	Ligne 26543: 					has_authority = auth_corporate
+	Ligne 26555: 						has_authority = auth_corporate
+	Ligne 26567: 					has_authority = auth_corporate
+	Ligne 26634: 				has_authority = auth_corporate
+	Ligne 26642: 					has_authority = auth_corporate
+	Ligne 26650: 				has_authority = auth_corporate
+	Ligne 26662: 					has_authority = auth_corporate
+	Ligne 26684: 					has_authority = auth_corporate
+	Ligne 26705: 					has_authority = auth_corporate
+	Ligne 26795: 				has_authority = auth_corporate
+	Ligne 26805: 					has_authority = auth_corporate
+	Ligne 26816: 						has_authority = auth_corporate
+	Ligne 26827: 					has_authority = auth_corporate
+	Ligne 26837: 					has_authority = auth_corporate
+	Ligne 26915: 				has_authority = auth_corporate
+	Ligne 26923: 					has_authority = auth_corporate
+	Ligne 26931: 				has_authority = auth_corporate
+	Ligne 26938: 				has_authority = auth_corporate
+	Ligne 26949: 					has_authority = auth_corporate
+	Ligne 26961: 						has_authority = auth_corporate
+	Ligne 26973: 					has_authority = auth_corporate
+	Ligne 27038: 				has_authority = auth_corporate
+	Ligne 27046: 					has_authority = auth_corporate
+	Ligne 27054: 				has_authority = auth_corporate
+	Ligne 27065: 					has_authority = auth_corporate
+	Ligne 27077: 						has_authority = auth_corporate
+	Ligne 27089: 					has_authority = auth_corporate
+	Ligne 27153: 				has_authority = auth_corporate
+	Ligne 27161: 					has_authority = auth_corporate
+	Ligne 27169: 				has_authority = auth_corporate
+	Ligne 27180: 					has_authority = auth_corporate
+	Ligne 27192: 						has_authority = auth_corporate
+	Ligne 27204: 					has_authority = auth_corporate
+	Ligne 27268: 				has_authority = auth_corporate
+	Ligne 27276: 					has_authority = auth_corporate
+	Ligne 27284: 				has_authority = auth_corporate
+	Ligne 27295: 					has_authority = auth_corporate
+	Ligne 27306: 					has_authority = auth_corporate
+	Ligne 27322: 						has_authority = auth_corporate
+	Ligne 27334: 					has_authority = auth_corporate
+	Ligne 27345: 					has_authority = auth_corporate
+	Ligne 27442: 				has_authority = auth_corporate
+	Ligne 27450: 					has_authority = auth_corporate
+	Ligne 27458: 				has_authority = auth_corporate
+	Ligne 27469: 					has_authority = auth_corporate
+	Ligne 27480: 					has_authority = auth_corporate
+	Ligne 27496: 						has_authority = auth_corporate
+	Ligne 27508: 					has_authority = auth_corporate
+	Ligne 27519: 					has_authority = auth_corporate
+	Ligne 27616: 				has_authority = auth_corporate
+	Ligne 27624: 					has_authority = auth_corporate
+	Ligne 27632: 				has_authority = auth_corporate
+	Ligne 27644: 					has_authority = auth_corporate
+	Ligne 27666: 					has_authority = auth_corporate
+	Ligne 27687: 					has_authority = auth_corporate
+	Ligne 27777: 				has_authority = auth_corporate
+	Ligne 27791: 				NOT = { has_authority = auth_corporate }
+	Ligne 27805: 				NOT = { FROM = { has_authority = auth_corporate } }
+	Ligne 27819: 				NOT = { has_authority = auth_corporate }
+	Ligne 27833: 				NOT = { has_authority = auth_corporate }
+	Ligne 27876: 				has_authority = auth_corporate
+	Ligne 27884: 					has_authority = auth_corporate
+	Ligne 27892: 				has_authority = auth_corporate
+	Ligne 27899: 				has_authority = auth_corporate
+	Ligne 27904: 				has_authority = auth_corporate
+	Ligne 27920: 				NOT = { has_authority = auth_corporate }
+	Ligne 27934: 				NOT = { FROM = { has_authority = auth_corporate } }
+	Ligne 27948: 				NOT = { has_authority = auth_corporate }
+	Ligne 27983: 				has_authority = auth_corporate
+	Ligne 27991: 					has_authority = auth_corporate
+	Ligne 27999: 				has_authority = auth_corporate
+	Ligne 28011: 					has_authority = auth_corporate
+	Ligne 28022: 						has_authority = auth_corporate
+	Ligne 28033: 					has_authority = auth_corporate
+	Ligne 28097: 				has_authority = auth_corporate
+	Ligne 28105: 					has_authority = auth_corporate
+	Ligne 28113: 				has_authority = auth_corporate
+	Ligne 28124: 					has_authority = auth_corporate
+	Ligne 28135: 						has_authority = auth_corporate
+	Ligne 28146: 					has_authority = auth_corporate
+	Ligne 28210: 				has_authority = auth_corporate
+	Ligne 28218: 					has_authority = auth_corporate
+	Ligne 28226: 				has_authority = auth_corporate
+	Ligne 28237: 					has_authority = auth_corporate
+	Ligne 28248: 						has_authority = auth_corporate
+	Ligne 28259: 					has_authority = auth_corporate
+	Ligne 28322: 				has_authority = auth_corporate
+	Ligne 28330: 					has_authority = auth_corporate
+	Ligne 28338: 				has_authority = auth_corporate
+	Ligne 28350: 					has_authority = auth_corporate
+	Ligne 28372: 					has_authority = auth_corporate
+	Ligne 28393: 					has_authority = auth_corporate
+	Ligne 28484: 				has_authority = auth_corporate
+	Ligne 28493: 					has_authority = auth_corporate
+	Ligne 28504: 						has_authority = auth_corporate
+	Ligne 28515: 					has_authority = auth_corporate
+	Ligne 28525: 					has_authority = auth_corporate
+	Ligne 28604: 				has_authority = auth_corporate
+	Ligne 28612: 					has_authority = auth_corporate
+	Ligne 28620: 				has_authority = auth_corporate
+	Ligne 28627: 				has_authority = auth_corporate
+	Ligne 28643: 					has_authority = auth_corporate
+	Ligne 28654: 						has_authority = auth_corporate
+	Ligne 28665: 					has_authority = auth_corporate
+	Ligne 28733: 				has_authority = auth_corporate
+	Ligne 28741: 					has_authority = auth_corporate
+	Ligne 28749: 				has_authority = auth_corporate
+	Ligne 28760: 					has_authority = auth_corporate
+	Ligne 28782: 					has_authority = auth_corporate
+	Ligne 28803: 					has_authority = auth_corporate
+	Ligne 28894: 				has_authority = auth_corporate
+	Ligne 28903: 					has_authority = auth_corporate
+	Ligne 28914: 						has_authority = auth_corporate
+	Ligne 28925: 					has_authority = auth_corporate
+	Ligne 28935: 					has_authority = auth_corporate
+	Ligne 29013: 				has_authority = auth_corporate
+	Ligne 29021: 					has_authority = auth_corporate
+	Ligne 29029: 				has_authority = auth_corporate
+	Ligne 29036: 				has_authority = auth_corporate
+	Ligne 29047: 					has_authority = auth_corporate
+	Ligne 29058: 						has_authority = auth_corporate
+	Ligne 29069: 					has_authority = auth_corporate
+	Ligne 29131: 				has_authority = auth_corporate
+	Ligne 29139: 					has_authority = auth_corporate
+	Ligne 29147: 				has_authority = auth_corporate
+	Ligne 29159: 					has_authority = auth_corporate
+	Ligne 29181: 					has_authority = auth_corporate
+	Ligne 29202: 					has_authority = auth_corporate
+	Ligne 29293: 				has_authority = auth_corporate
+	Ligne 29302: 					has_authority = auth_corporate
+	Ligne 29313: 						has_authority = auth_corporate
+	Ligne 29324: 					has_authority = auth_corporate
+	Ligne 29334: 					has_authority = auth_corporate
+	Ligne 29413: 				has_authority = auth_corporate
+	Ligne 29420: 				has_authority = auth_corporate
+	Ligne 29425: 				has_authority = auth_corporate
+	Ligne 29432: 				has_authority = auth_corporate
+	Ligne 29448: 					has_authority = auth_corporate
+	Ligne 29504: 				has_authority = auth_corporate
+	Ligne 29513: 					has_authority = auth_corporate
+	Ligne 29524: 						has_authority = auth_corporate
+	Ligne 29535: 					has_authority = auth_corporate
+	Ligne 29545: 					has_authority = auth_corporate
+	Ligne 29624: 					has_authority = auth_corporate
+	Ligne 29641: 					has_authority = auth_corporate
+	Ligne 29705: 				has_authority = auth_corporate
+	Ligne 29716: 					has_authority = auth_corporate
+	Ligne 29726: 					has_authority = auth_corporate
+	Ligne 29757: 					has_authority = auth_corporate
+	Ligne 29780: 				has_authority = auth_corporate
+	Ligne 29791: 						has_authority = auth_corporate
+	Ligne 29820: 					has_authority = auth_corporate
+	Ligne 29884: 				has_authority = auth_corporate
+	Ligne 29895: 					has_authority = auth_corporate
+	Ligne 29905: 					has_authority = auth_corporate
+	Ligne 29936: 					has_authority = auth_corporate
+	Ligne 29959: 				has_authority = auth_corporate
+	Ligne 29996: 					has_authority = auth_corporate
+	Ligne 30048: 				has_authority = auth_corporate
+	Ligne 30094: 					has_authority = auth_corporate
+	Ligne 30117: 				has_authority = auth_corporate
+	Ligne 30154: 					has_authority = auth_corporate
+	Ligne 30206: 				has_authority = auth_corporate
+	Ligne 30253: 					has_authority = auth_corporate
+	Ligne 30273: 				has_authority = auth_corporate
+	Ligne 30319: 					has_authority = auth_corporate
+	Ligne 30335: 					has_authority = auth_corporate
+	Ligne 30351: 					has_authority = auth_corporate
+	Ligne 30367: 					has_authority = auth_corporate
+	Ligne 30592: 					has_authority = auth_corporate
+	Ligne 30607: 					has_authority = auth_corporate
+	Ligne 30622: 					has_authority = auth_corporate
+	Ligne 30637: 					has_authority = auth_corporate
+	Ligne 30665: 					has_authority = auth_corporate
+	Ligne 30682: 					has_authority = auth_corporate
+	Ligne 30699: 					has_authority = auth_corporate
+	Ligne 30716: 					has_authority = auth_corporate
+	Ligne 30754: 				has_authority = auth_corporate
+	Ligne 30767: 				has_authority = auth_corporate
+	Ligne 30780: 				has_authority = auth_corporate
+	Ligne 30795: 				FROM = { has_authority = auth_corporate }
+	Ligne 30807: 				FROM = { has_authority = auth_corporate }
+	Ligne 30820: 				FROM = { has_authority = auth_corporate }
+	Ligne 30845: 						NOT = { has_authority = auth_corporate }
+	Ligne 30865: 						NOT = { has_authority = auth_corporate }
+	Ligne 30882: 						NOT = { has_authority = auth_corporate }
+	Ligne 30899: 						NOT = { has_authority = auth_corporate }
+	Ligne 30916: 						NOT = { has_authority = auth_corporate }
+	Ligne 30933: 						NOT = { has_authority = auth_corporate }
+	Ligne 30949: 					NOT = { has_authority = auth_corporate }
+	Ligne 30960: 					NOT = { has_authority = auth_corporate }
+	Ligne 30971: 						has_authority = auth_corporate
+	Ligne 30988: 						has_authority = auth_corporate
+	Ligne 31005: 						has_authority = auth_corporate
+	Ligne 31021: 						has_authority = auth_corporate
+	Ligne 31037: 						has_authority = auth_corporate
+	Ligne 31059: 						has_authority = auth_corporate
+	Ligne 31073: 						has_authority = auth_corporate
+	Ligne 31087: 						has_authority = auth_corporate
+	Ligne 31101: 						has_authority = auth_corporate
+	Ligne 31116: 						has_authority = auth_corporate
+	Ligne 31130: 						has_authority = auth_corporate
+	Ligne 31145: 						has_authority = auth_corporate
+	Ligne 31159: 						has_authority = auth_corporate
+	Ligne 31174: 						has_authority = auth_corporate
+	Ligne 31188: 						has_authority = auth_corporate
+	Ligne 31202: 						has_authority = auth_corporate
+	Ligne 31216: 						has_authority = auth_corporate
+	Ligne 31231: 						has_authority = auth_corporate
+	Ligne 31245: 						has_authority = auth_corporate
+	Ligne 31259: 						has_authority = auth_corporate
+	Ligne 31273: 						has_authority = auth_corporate
+	Ligne 31288: 					NOT = { has_authority = auth_corporate }
+	Ligne 31299: 					NOT = { has_authority = auth_corporate }
+	Ligne 31310: 					NOT = { has_authority = auth_corporate }
+	Ligne 31321: 					NOT = { has_authority = auth_corporate }
+	Ligne 31333: 					NOT = { has_authority = auth_corporate }
+	Ligne 31344: 					NOT = { has_authority = auth_corporate }
+	Ligne 31355: 					NOT = { has_authority = auth_corporate }
+	Ligne 31366: 					NOT = { has_authority = auth_corporate }
+	Ligne 31378: 					NOT = { has_authority = auth_corporate }
+	Ligne 31389: 					NOT = { has_authority = auth_corporate }
+	Ligne 31400: 					NOT = { has_authority = auth_corporate }
+	Ligne 31411: 					NOT = { has_authority = auth_corporate }
+	Ligne 31423: 					NOT = { has_authority = auth_corporate }
+	Ligne 31434: 					NOT = { has_authority = auth_corporate }
+	Ligne 31445: 					NOT = { has_authority = auth_corporate }
+	Ligne 31456: 					NOT = { has_authority = auth_corporate }
+	Ligne 31849: 					has_authority = auth_corporate
+	Ligne 31856: 					has_authority = auth_corporate
+	Ligne 31864: 					has_authority = auth_corporate
+	Ligne 31870: 				has_authority = auth_corporate
+	Ligne 31872: 					has_authority = auth_corporate
+	Ligne 31882: 				has_authority = auth_corporate
+	Ligne 31887: 				has_authority = auth_corporate
+	Ligne 31892: 				has_authority = auth_corporate
+	Ligne 31895: 					NOT = { has_authority = auth_corporate }
+	Ligne 32235: 					has_authority = auth_corporate
+	Ligne 32254: 					has_authority = auth_corporate
+	Ligne 32266: 					has_authority = auth_corporate
+	Ligne 32278: 					has_authority = auth_corporate
+	Ligne 32481: 					has_authority = auth_corporate
+	Ligne 32494: 					has_authority = auth_corporate
+	Ligne 32507: 					has_authority = auth_corporate
+	Ligne 32520: 					has_authority = auth_corporate
+	Ligne 32543: 					has_authority = auth_corporate
+	Ligne 32556: 					has_authority = auth_corporate
+	Ligne 32569: 					has_authority = auth_corporate
+	Ligne 32582: 					has_authority = auth_corporate
+	Ligne 32604: 				has_authority = auth_corporate
+	Ligne 32616: 				has_authority = auth_corporate
+	Ligne 32621: 				has_authority = auth_corporate
+	Ligne 32626: 				has_authority = auth_corporate
+	Ligne 32631: 				has_authority = auth_corporate
+	Ligne 32636: 				has_authority = auth_corporate
+	Ligne 32643: 				FROM = { has_authority = auth_corporate }
+	Ligne 32655: 				FROM = { has_authority = auth_corporate }
+	Ligne 32667: 				FROM = { has_authority = auth_corporate }
+	Ligne 32672: 				FROM = { has_authority = auth_corporate }
+	Ligne 32677: 				FROM = { has_authority = auth_corporate }
+	Ligne 32682: 				FROM = { has_authority = auth_corporate }
+	Ligne 32694: 					has_authority = auth_corporate
+	Ligne 32716: 					has_authority = auth_corporate
+	Ligne 32737: 					has_authority = auth_corporate
+	Ligne 32827: 				has_authority = auth_corporate
+	Ligne 32939: 					has_authority = auth_corporate
+	Ligne 32951: 					has_authority = auth_corporate
+	Ligne 32962: 					has_authority = auth_corporate
+	Ligne 33042: 				has_authority = auth_corporate
+	Ligne 33109: 					has_authority = auth_corporate
+	Ligne 33153: 				has_authority = auth_corporate
+	Ligne 33163: 					has_authority = auth_corporate
+	Ligne 33207: 				has_authority = auth_corporate
+	Ligne 33217: 					has_authority = auth_corporate
+	Ligne 33261: 				has_authority = auth_corporate
+	Ligne 33271: 					has_authority = auth_corporate
+	Ligne 33315: 				has_authority = auth_corporate
+	Ligne 34255: 				FROM = { has_authority = auth_corporate }
+	Ligne 34430: 				FROM = { has_authority = auth_corporate }
+	Ligne 34597: 				FROM = { has_authority = auth_corporate }
+	Ligne 34624: 					has_authority = auth_corporate
+	Ligne 34639: 					has_authority = auth_corporate
+	Ligne 34654: 					has_authority = auth_corporate
+	Ligne 34672: 					has_authority = auth_corporate
+	Ligne 34690: 					has_authority = auth_corporate
+	Ligne 34705: 					has_authority = auth_corporate
+	Ligne 34718: 				has_authority = auth_corporate
+	Ligne 34743: 						has_authority = auth_corporate
+	Ligne 34752: 				from = { has_authority = auth_corporate }
+	Ligne 34776: 					has_authority = auth_corporate
+	Ligne 34791: 					has_authority = auth_corporate
+	Ligne 34806: 					has_authority = auth_corporate
+	Ligne 34824: 					has_authority = auth_corporate
+	Ligne 34842: 					has_authority = auth_corporate
+	Ligne 34857: 					has_authority = auth_corporate
+	Ligne 34870: 				has_authority = auth_corporate
+	Ligne 34897: 					has_authority = auth_corporate
+	Ligne 34912: 					has_authority = auth_corporate
+	Ligne 34927: 					has_authority = auth_corporate
+	Ligne 34945: 					has_authority = auth_corporate
+	Ligne 34963: 					has_authority = auth_corporate
+	Ligne 34978: 					has_authority = auth_corporate
+	Ligne 34991: 				has_authority = auth_corporate
+	Ligne 35016: 						has_authority = auth_corporate
+	Ligne 35025: 				from = { has_authority = auth_corporate }
+	Ligne 35049: 					has_authority = auth_corporate
+	Ligne 35064: 					has_authority = auth_corporate
+	Ligne 35079: 					has_authority = auth_corporate
+	Ligne 35097: 					has_authority = auth_corporate
+	Ligne 35115: 					has_authority = auth_corporate
+	Ligne 35130: 					has_authority = auth_corporate
+	Ligne 35143: 				has_authority = auth_corporate
+	Ligne 35167: 					has_authority = auth_corporate
+	Ligne 35182: 					has_authority = auth_corporate
+	Ligne 35197: 					has_authority = auth_corporate
+	Ligne 35215: 					has_authority = auth_corporate
+	Ligne 35233: 					has_authority = auth_corporate
+	Ligne 35248: 					has_authority = auth_corporate
+	Ligne 35261: 				has_authority = auth_corporate
+	Ligne 35288: 					has_authority = auth_corporate
+	Ligne 35303: 					has_authority = auth_corporate
+	Ligne 35318: 					has_authority = auth_corporate
+	Ligne 35336: 					has_authority = auth_corporate
+	Ligne 35354: 					has_authority = auth_corporate
+	Ligne 35369: 					has_authority = auth_corporate
+	Ligne 35382: 				has_authority = auth_corporate
+	Ligne 35407: 						has_authority = auth_corporate
+	Ligne 35416: 				from = { has_authority = auth_corporate }
+	Ligne 35440: 					has_authority = auth_corporate
+	Ligne 35455: 					has_authority = auth_corporate
+	Ligne 35470: 					has_authority = auth_corporate
+	Ligne 35488: 					has_authority = auth_corporate
+	Ligne 35506: 					has_authority = auth_corporate
+	Ligne 35521: 					has_authority = auth_corporate
+	Ligne 35534: 				has_authority = auth_corporate
+	Ligne 35561: 					has_authority = auth_corporate
+	Ligne 35576: 					has_authority = auth_corporate
+	Ligne 35591: 					has_authority = auth_corporate
+	Ligne 35609: 					has_authority = auth_corporate
+	Ligne 35627: 					has_authority = auth_corporate
+	Ligne 35642: 					has_authority = auth_corporate
+	Ligne 35655: 				has_authority = auth_corporate
+	Ligne 35680: 						has_authority = auth_corporate
+	Ligne 35689: 				from = { has_authority = auth_corporate }
+	Ligne 35713: 					has_authority = auth_corporate
+	Ligne 35728: 					has_authority = auth_corporate
+	Ligne 35743: 					has_authority = auth_corporate
+	Ligne 35761: 					has_authority = auth_corporate
+	Ligne 35779: 					has_authority = auth_corporate
+	Ligne 35794: 					has_authority = auth_corporate
+	Ligne 35807: 				has_authority = auth_corporate
+	Ligne 35831: 					has_authority = auth_corporate
+	Ligne 35846: 					has_authority = auth_corporate
+	Ligne 35861: 					has_authority = auth_corporate
+	Ligne 35879: 					has_authority = auth_corporate
+	Ligne 35897: 					has_authority = auth_corporate
+	Ligne 35912: 					has_authority = auth_corporate
+	Ligne 35925: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\game_rules\00_rules.txt (7 résultats)
+	Ligne 1458: 			has_authority = auth_corporate
+	Ligne 1476: 			has_authority = auth_corporate
+	Ligne 1511: 					has_authority = auth_corporate
+	Ligne 1529: 						has_authority = auth_corporate
+	Ligne 1561: 								has_authority = auth_corporate
+	Ligne 1576: 							has_authority = auth_corporate
+	Ligne 1623: 		has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\governments\00_governments.txt (5 résultats)
+	Ligne 268: 				has_authority = auth_corporate
+	Ligne 1186: 			has_authority = auth_corporate
+	Ligne 1230: 				has_authority = auth_corporate
+	Ligne 1262: 		has_authority = auth_corporate
+	Ligne 1289: 		has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\opinion_modifiers\01_personality_opinions.txt (1 résultats)
+	Ligne 124: 				FROM = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\personalities\00_personalities.txt (2 résultats)
+	Ligne 465: 			has_authority = auth_corporate
+	Ligne 539: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\policies\00_policies.txt (7 résultats)
+	Ligne 951: 			NOT = { has_authority = auth_corporate }
+	Ligne 1018: 			NOT = { has_authority = auth_corporate }
+	Ligne 1067: 			NOT = { has_authority = auth_corporate }
+	Ligne 1134: 			has_authority = auth_corporate
+	Ligne 1212: 			has_authority = auth_corporate
+	Ligne 1250: 			has_authority = auth_corporate
+	Ligne 1943: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\resolutions\00_resolutions.txt (2 résultats)
+	Ligne 12552: 			has_authority = auth_corporate
+	Ligne 13019: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\resolutions\01_resolutions_nemesis.txt (4 résultats)
+	Ligne 2695: 			has_authority = auth_corporate
+	Ligne 2767: 			has_authority = auth_corporate
+	Ligne 3937: 			has_authority = auth_corporate
+	Ligne 4013: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\resolutions\02_resolutions_overlord.txt (2 résultats)
+	Ligne 468: 			has_authority = auth_corporate
+	Ligne 552: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\scripted_effects\00_scripted_effects.txt (2 résultats)
+	Ligne 7941: 			root = { has_authority = auth_corporate }
+	Ligne 7942: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\scripted_effects\espionage_event_effects.txt (5 résultats)
+	Ligne 1515: 			root.target = { has_authority = auth_corporate }
+	Ligne 1546: 					has_authority = auth_corporate
+	Ligne 1572: 					has_authority = auth_corporate
+	Ligne 1661: 					has_authority = auth_corporate
+	Ligne 1703: 					has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\scripted_triggers\00_scripted_triggers.txt (5 résultats)
+	Ligne 1203: 		has_authority = auth_corporate
+	Ligne 1210: 	has_authority = auth_corporate
+	Ligne 1215: 		has_authority = auth_corporate
+	Ligne 1243: 		has_authority = auth_corporate
+	Ligne 1255: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\start_screen_messages\00_start_screen_messages.txt (2 résultats)
+	Ligne 1166: 			has_authority = auth_corporate
+	Ligne 1178: 		has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\tradition_categories\00_mercantile.txt (1 résultats)
+	Ligne 21: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\common\war_goals\00_war_goals.txt (15 résultats)
+	Ligne 575: 			has_authority = auth_corporate
+	Ligne 773: 					root = { has_authority = auth_corporate }
+	Ligne 774: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 808: 			has_authority = auth_corporate
+	Ligne 902: 					root = { has_authority = auth_corporate }
+	Ligne 903: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 937: 		has_authority = auth_corporate
+	Ligne 1084: 					root = { has_authority = auth_corporate }
+	Ligne 1085: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 1171: 					root = { has_authority = auth_corporate }
+	Ligne 1172: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 1922: 					root = { has_authority = auth_corporate }
+	Ligne 1923: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 2014: 					root = { has_authority = auth_corporate }
+	Ligne 2015: 					last_created_country = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\war_goals\03_nemesis_war_goals.txt (4 résultats)
+	Ligne 209: 					root = { has_authority = auth_corporate }
+	Ligne 210: 					last_created_country = { has_authority = auth_corporate }
+	Ligne 381: 					root = { has_authority = auth_corporate }
+	Ligne 382: 					last_created_country = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\common\war_goals\04_imperium_war_goals.txt (2 résultats)
+	Ligne 55: 					root = { has_authority = auth_corporate }
+	Ligne 56: 					last_created_country = { has_authority = auth_corporate }
+#EVENTS
+Rechercher "has_authority = auth_corporate" (33 résultats dans 11 documents depuis 109 documents recherchés)
+  E:\SteamLibrary\steamapps\common\Stellaris\events\caravaneer_events.txt (1 résultats)
+	Ligne 4503: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\colony_events_3.txt (1 résultats)
+	Ligne 6420: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\crisis_events_1.txt (2 résultats)
+	Ligne 729: 				has_authority = auth_corporate
+	Ligne 3369: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\crisis_events_2.txt (3 résultats)
+	Ligne 565: 				has_authority = auth_corporate
+	Ligne 746: 				has_authority = auth_corporate
+	Ligne 3547: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\galactic_community_events.txt (6 résultats)
+	Ligne 714: 		trigger = { has_authority = auth_corporate }
+	Ligne 720: 		trigger = { NOT = { has_authority = auth_corporate } }
+	Ligne 1185: 		trigger = { has_authority = auth_corporate }
+	Ligne 1190: 		trigger = { NOT = { has_authority = auth_corporate } }
+	Ligne 1219: 		trigger = { has_authority = auth_corporate }
+	Ligne 1225: 		trigger = { NOT = { has_authority = auth_corporate } }
+  E:\SteamLibrary\steamapps\common\Stellaris\events\megastructure_events_1.txt (1 résultats)
+	Ligne 4833: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\nemesis_espionage_events.txt (4 résultats)
+	Ligne 1223: 		trigger = { NOT = { has_authority = auth_corporate } }
+	Ligne 1227: 		trigger = { has_authority = auth_corporate }
+	Ligne 1311: 			NOT = { has_authority = auth_corporate }
+	Ligne 1348: 			has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\nemesis_operations_events_1.txt (1 résultats)
+	Ligne 1955: 							NOT = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\events\on_action_events_1.txt (4 résultats)
+	Ligne 1921: 				has_authority = auth_corporate
+	Ligne 4560: 				has_authority = auth_corporate
+	Ligne 6704: 				has_authority = auth_corporate
+	Ligne 6862: 				has_authority = auth_corporate
+  E:\SteamLibrary\steamapps\common\Stellaris\events\on_action_events_2.txt (9 résultats)
+	Ligne 99: 		trigger = { has_authority = auth_corporate }
+	Ligne 104: 		trigger = { NOT = { has_authority = auth_corporate } }
+	Ligne 117: 				has_authority = auth_corporate
+	Ligne 127: 		trigger = { has_authority = auth_corporate }
+	Ligne 149: 		trigger = { has_authority = auth_corporate }
+	Ligne 155: 		trigger = { NOT = { has_authority = auth_corporate } }
+	Ligne 511: 						has_authority = auth_corporate
+	Ligne 1897: 		has_authority = auth_corporate
+	Ligne 1898: 		from = { has_authority = auth_corporate }
+  E:\SteamLibrary\steamapps\common\Stellaris\events\overlord_enclaves_events.txt (1 résultats)
+	Ligne 147: 					has_authority = auth_corporate
