@@ -41,7 +41,7 @@ is_SGU_country = {
 	}
 }
 
-is_SGU_country = {
+is_DUN_country = {
 	OR = {
 		has_origin = origin_DUN_corrino
 		has_origin = origin_DUN_atreides
