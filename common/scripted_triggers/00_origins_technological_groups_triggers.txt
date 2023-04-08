@@ -1,0 +1,105 @@
+#	Example:
+#
+#	example_trigger = {
+#		is_country_type = default
+#		num_communications > 0
+#	}
+#
+#
+#	In a script file:
+#
+#	trigger = {
+#		example_trigger = yes
+#	}
+#
+
+is_STK_country = {
+	OR = {
+		has_origin = origin_STK_iconien
+		has_origin = origin_STK_federation
+		has_origin = origin_STK_vulcain
+		has_origin = origin_STK_dominion
+		has_origin = origin_STK_borgs
+		has_origin = origin_STK_klingon
+		has_origin = origin_STK_romulien
+		has_origin = origin_STK_tholien
+		has_origin = origin_STK_malons
+	}
+}
+
+is_SGU_country = {
+	OR = {
+		has_origin = origin_SGU_ancients
+		has_origin = origin_SGU_ori
+		has_origin = origin_SGU_asgard
+		has_origin = origin_SGU_asuran
+		has_origin = origin_SGU_tauri
+		has_origin = origin_SGU_wraith
+		has_origin = origin_SGU_goauld
+		has_origin = origin_SGU_jaffa
+		has_origin = origin_SGU_nox
+	}
+}
+
+is_DUN_country = {
+	OR = {
+		has_origin = origin_DUN_corrino
+		has_origin = origin_DUN_atreides
+		has_origin = origin_DUN_harkonnen
+		has_origin = origin_DUN_benegesserit
+		has_origin = origin_DUN_guildespatiale
+		has_origin = origin_DUN_fremens
+		has_origin = origin_DUN_contrebandiers
+		has_origin = origin_DUN_machinespensantes
+	}
+}
+
+is_precurseur_gang = {
+	OR = {
+		has_origin = origin_SGU_ancients
+		has_origin = origin_SGU_ori
+		has_origin = origin_SGU_asgard
+		has_origin = origin_SGU_nox
+		
+		has_origin = origin_STK_iconien
+		
+		has_origin = origin_DUN_benegesserit
+	}
+}
+
+is_good_federal_gang = {
+	OR = {
+		has_origin = origin_SGU_tauri
+		has_origin = origin_SGU_jaffa
+		has_origin = origin_SGU_nox
+		
+		has_origin = origin_STK_federation
+		has_origin = origin_STK_vulcain
+		
+		has_origin = origin_DUN_fremens
+	}
+}
+
+is_maison_nobles_gang = {
+	OR = {
+		has_origin = origin_DUN_corrino
+		has_origin = origin_DUN_atreides
+		has_origin = origin_DUN_harkonnen
+		has_origin = origin_DUN_benegesserit
+		
+		has_origin = origin_STK_dominion
+	}
+}
+
+is_obliterateurs_mechaniques_gang = {
+	OR= {
+		has_origin = origin_STK_borgs
+	}
+}
+
+is_obliterateurs_biologiques_gang = {
+	OR= {
+		has_origin = origin_SGU_wraith
+		has_origin = origin_STK_iconien
+	}
+}

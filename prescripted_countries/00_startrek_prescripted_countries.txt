@@ -119,7 +119,7 @@
 		"civic_fanatic_purifiers"
 		"civic_distinguished_admiralty"
 	}
-	origin="origin_post_apocalyptic"
+	origin="origin_STK_iconien"
 }
 "Fédération des Planètes"={
 	key="Fédération des Planètes"
@@ -227,7 +227,7 @@
 		"civic_beacon_of_liberty"
 		"civic_diplomatic_corps"
 	}
-	origin="origin_default"
+	origin="origin_STK_federation"
 }
 "Technocracie Vulcain"={
 	key="Technocracie Vulcain"
@@ -350,7 +350,7 @@
 		"civic_technocracy"
 		"civic_efficient_bureaucracy"
 	}
-	origin="origin_mechanists"
+	origin="origin_STK_vulcain"
 }
 "Assimilateurs Borg"={
 	key="Assimilateurs Borg"

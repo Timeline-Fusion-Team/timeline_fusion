@@ -542,7 +542,7 @@
 		"civic_citizen_service"
 		"civic_distinguished_admiralty"
 	}
-	origin="origin_default"
+	origin="origin_SGU_tauri"
 }
 "Wraiths"={
 	key="Wraiths"

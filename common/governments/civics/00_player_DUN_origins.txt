@@ -1,0 +1,151 @@
+origin_DUN_corrino = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_corrino_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_atreides = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_atreides_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_harkonnen = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_harkonnen_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_benegesserit = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_benegesserit_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_guildespatiale = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_guildespatiale_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_fremens = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_fremens_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_contrebandiers = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_contrebandiers_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_DUN_machinespensantes = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_DUN_machinepensantes_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}

@@ -1,0 +1,170 @@
+origin_SGU_ancients = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_anciens_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_ori = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_ori_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_asgard = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_asgard_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_asuran = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_asuran_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_tauri = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_tauri_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_wraith = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_wraith_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_goauld = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_goauld_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_jaffa = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_jaffa_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
+
+origin_SGU_nox = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_imperial_vassal.dds"
+	picture = GFX_origin_imperial_vassal
+	max_once_global = yes
+
+	possible = {
+	}
+
+	description = "origin_tooltip_SGU_nox_effects"
+	flags = { custom_start_screen }
+
+	traits = {}
+
+	random_weight = {
+		base = 0
+	}
+}
