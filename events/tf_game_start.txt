@@ -29,7 +29,6 @@ event = {
 				override_requirements = yes
 			}
 			} ##### Manque les opinions confiance et intels UNCOMPLETED
-		}
 		every_playable_country = {
 			limit= {
 				has_origin = origin_SGU_tauri
@@ -39,7 +38,8 @@ event = {
 				who = event_target:STK_federation_leader
 				preset = preset_bulwark
 			}
+			
 		}
 		set_federation_leader = event_target:STK_federation_leader
-	}
+	}	
 }
